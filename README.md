@@ -30,7 +30,13 @@ In OSX, it seems like Bash 3.x is the default shell which is not supported. you 
 
 ## Installation
 
-`git clone --depth=1 https://github.com/pindexis/marker ~/.marker && ~/.marker/install.py`
+`git clone --depth=1 https://github.com/feliximafidon/marker ~/.marker && ~/.marker/install.py`
 
 ## License
 [MIT](LICENSE)
+
+## Forked from:
+https://github.com/pindexis/marker
+
+## With fixes from:
+[tml](https://github.com/tml)
